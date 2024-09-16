@@ -1,0 +1,11 @@
+pymupdf
+langchain
+transformers
+sentence-transformers
+chromadb
+openai
+langchain_groq
+langchain_community
+langchain_chroma
+langchain_huggingface
+gradio
